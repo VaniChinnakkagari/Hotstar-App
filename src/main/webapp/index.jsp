@@ -25,7 +25,7 @@
             <li class="nav-items"><a href="#">Vani</a></li>
             <li class="nav-items"><a href="#">Spopoo</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
-            <li class="nav-items"><a href="#">Disne+</a></li>
+            <li class="nav-items"><a href="#">Disn e+</a></li>
             <li class="icon"><a href="#"></a></li>
         </ul>
 
